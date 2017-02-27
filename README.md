@@ -18,6 +18,5 @@ virtualenv (any directory name)
 cd (any directory name)
 source bin/activate
 
-### [sample] robobrowser_google.py
+## [sample] robobrowser_google.py
 pip install robobrowser chardet
- 
