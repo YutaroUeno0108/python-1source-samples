@@ -20,3 +20,6 @@ source bin/activate
 
 ## [sample] robobrowser_google.py
 pip install robobrowser chardet
+
+## [sample] hello.py
+pip install Flask
