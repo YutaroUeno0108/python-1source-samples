@@ -23,3 +23,7 @@ pip install robobrowser chardet
 
 ## [sample] hello.py
 pip install Flask
+
+## [sample] selenium_google.py
+pip install selenium
+brew install phantomjs
