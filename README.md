@@ -27,3 +27,8 @@ pip install Flask
 ## [sample] selenium_google.py
 pip install selenium  
 brew install phantomjs  
+
+## [sample] lang_train.py
+pip install sklearn  
+brew install scipy  
+
