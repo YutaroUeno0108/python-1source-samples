@@ -30,5 +30,8 @@ brew install phantomjs
 
 ## [sample] lang_train.py
 pip install sklearn  
-brew install scipy  
+pip install scipy  
 
+## [sample] bmi_create.py bmi_test.py
+pip install sklearn  
+pip install pandas  
