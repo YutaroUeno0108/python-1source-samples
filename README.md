@@ -43,5 +43,16 @@ source ./tensorflow/bin/activate
 pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-1.0.0-py2-none-any.whl  
 
 ## [sample] bml_tensorflow.py  
-This program needs the csv which is created by bmi_create.py
-pip install pandas
+This program needs the csv which is created by bmi_create.py  
+pip install pandas  
+
+## [sample] bml_tensorflow.py  
+This program needs the csv which is created by bmi_create.py  
+pip install keras  
+~/.keras/keras.json content is as follows.
+{  
+    "image_dim_ordering": "tf",  
+    "epsilon": 1e-07,  
+    "backend": "tensorflow",  
+    "floatx": "float32"  
+}  
