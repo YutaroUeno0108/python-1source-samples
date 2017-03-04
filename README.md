@@ -56,3 +56,6 @@ pip install keras
     "backend": "tensorflow",  
     "floatx": "float32"  
 }  
+
+## [sample] pd_test_s.py  
+This program is for pandas and NumPy training  
