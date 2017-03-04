@@ -37,7 +37,7 @@ pip install sklearn
 pip install pandas  
 
 ## [sample] hellotensorflow.py  
-mkdir ./tensorflow
-virtualenv --system-site-packages ./tensorflow
-source ./tensorflow/bin/activate
-pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-1.0.0-py2-none-any.whl
+mkdir ./tensorflow  
+virtualenv --system-site-packages ./tensorflow  
+source ./tensorflow/bin/activate  
+pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-1.0.0-py2-none-any.whl  
