@@ -49,7 +49,7 @@ pip install pandas
 ## [sample] bml_tensorflow.py  
 This program needs the csv which is created by bmi_create.py  
 pip install keras  
-~/.keras/keras.json content is as follows.
+~/.keras/keras.json content is as follows.  
 {  
     "image_dim_ordering": "tf",  
     "epsilon": 1e-07,  
