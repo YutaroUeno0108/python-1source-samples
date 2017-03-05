@@ -61,7 +61,7 @@ pip install keras
 This program is for pandas and NumPy training  
 
 ## [sample] ma_janome.py  ginga_janome.py
-There is a ascii <-> unicode bug in ginga_janome.py
+There is a ascii <-> unicode bug in ginga_janome.py  
 pip install janome  
 
 
