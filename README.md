@@ -64,4 +64,6 @@ This program is for pandas and NumPy training
 There is a ascii <-> unicode bug in ginga_janome.py  
 pip install janome  
 
-
+## [sample] chatbot.py  botengine.py  
+chmod +x cgi-bin/chatbot.py  
+python -m CGIHTTPServer  
